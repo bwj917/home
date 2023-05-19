@@ -2,7 +2,7 @@ package hello.itemservice.domain.item;
 
 import lombok.Data;
 
-// @Data: @Getter, @Setter등을 자동생성하기 위한 용도
+// @Data: @Getter, @Setter등을 자동생성하기 위한 용도.
 @Data
 public class Item {
     private Long id;
